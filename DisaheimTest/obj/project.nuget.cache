@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kWsdf2NiWUHFYm9/M2fo8oxO4/Fs2QAl2Upc7zsIdfPWePVNaHDvwJKJaoc0/pt194WDWTebeebA+UYZOIxJdA==",
+  "dgSpecHash": "K7efnv1R57TcO7zLJyRlfLnnwdlB+u4QUhDr3z2HSBlvkPoZU8tVrCUWHStbFb6SKSwoXaIfiQNASjdyYWB4WA==",
   "success": true,
-  "projectFilePath": "/Users/trygvebechsgaard/Projects/Disaheim/DisaheimTest/DisaheimTest.csproj",
+  "projectFilePath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj",
   "expectedPackageFiles": [
     "/Users/trygvebechsgaard/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/trygvebechsgaard/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

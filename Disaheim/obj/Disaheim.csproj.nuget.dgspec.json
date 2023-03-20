@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trygvebechsgaard/Projects/Disaheim/Disaheim/Disaheim.csproj": {}
+    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {}
   },
   "projects": {
-    "/Users/trygvebechsgaard/Projects/Disaheim/Disaheim/Disaheim.csproj": {
+    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trygvebechsgaard/Projects/Disaheim/Disaheim/Disaheim.csproj",
+        "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "/Users/trygvebechsgaard/Projects/Disaheim/Disaheim/Disaheim.csproj",
+        "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
         "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-        "outputPath": "/Users/trygvebechsgaard/Projects/Disaheim/Disaheim/obj/",
+        "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

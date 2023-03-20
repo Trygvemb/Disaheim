@@ -1,12 +1,14 @@
 ﻿using System;
 namespace Disaheim
 {
-	public class Merchandise
+	public abstract class Merchandise
 	{
-        public virtual string ItemId { get; set; }
+        public string ItemId { get; set; }
 
-        public Merchandise(string itemId)
-        { ItemId = itemId; }
+        //public Merchandise(string itemId)
+        //{
+        //    ItemId = itemId;
+        //}
 
         public override string ToString()
         {

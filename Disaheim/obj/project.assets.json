@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
+      "projectUniqueName": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
+      "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj",
       "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-      "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/",
+      "outputPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"

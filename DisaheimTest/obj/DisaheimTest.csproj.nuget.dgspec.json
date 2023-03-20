@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj": {}
+    "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj": {}
   },
   "projects": {
-    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {
+    "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
+        "projectUniqueName": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
+        "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj",
         "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-        "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/",
+        "outputPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
@@ -58,14 +58,14 @@
         }
       }
     },
-    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj": {
+    "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj",
+        "projectUniqueName": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj",
         "projectName": "DisaheimTest",
-        "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj",
+        "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj",
         "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-        "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/obj/",
+        "outputPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
@@ -81,8 +81,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {
-                "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj"
+              "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj": {
+                "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj"
               }
             }
           }

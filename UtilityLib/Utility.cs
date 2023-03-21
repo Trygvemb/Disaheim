@@ -1,5 +1,6 @@
 ﻿using System;
-namespace Disaheim
+using Disaheim;
+namespace UtilityLib
 {
 	public class Utility
 	{

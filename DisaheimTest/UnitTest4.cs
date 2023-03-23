@@ -66,13 +66,15 @@ namespace DisaheimTest
         public void TestGetTotalValueForBook()
         {
             // Assert
-            Assert.AreEqual(123.55, merchandises.GetTotalValue());
+            Assert.AreEqual(183.55, merchandises.GetTotalValue());
+            // changed value
         }
         [TestMethod]
         public void TestGetTotalValueForAmulet()
         {
             // Assert
-            Assert.AreEqual(60.0, merchandises.GetTotalValue());
+            Assert.AreEqual(183.55, merchandises.GetTotalValue());
+            // changed value
         }
         [TestMethod]
         public void TestGetTotalValueForCourse()

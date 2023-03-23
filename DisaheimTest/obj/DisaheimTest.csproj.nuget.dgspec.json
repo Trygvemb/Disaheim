@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj": {}
+    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj": {}
   },
   "projects": {
-    "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj": {
+    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj",
+        "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
         "projectName": "Disaheim",
-        "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj",
+        "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj",
         "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-        "outputPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/obj/",
+        "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
@@ -58,14 +58,14 @@
         }
       }
     },
-    "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj": {
+    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj",
+        "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj",
         "projectName": "DisaheimTest",
-        "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/DisaheimTest.csproj",
+        "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/DisaheimTest.csproj",
         "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-        "outputPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/DisaheimTest/obj/",
+        "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/DisaheimTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
@@ -81,8 +81,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj": {
-                "projectPath": "/Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/Disaheim.csproj"
+              "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {
+                "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj"
+              },
+              "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/UtilityLib/UtilityLib.csproj": {
+                "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/UtilityLib/UtilityLib.csproj"
               }
             }
           }
@@ -114,6 +117,64 @@
               "version": "[3.1.2, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/UtilityLib/UtilityLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/UtilityLib/UtilityLib.csproj",
+        "projectName": "UtilityLib",
+        "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/UtilityLib/UtilityLib.csproj",
+        "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
+        "outputPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/UtilityLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj": {
+                "projectPath": "/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/Disaheim.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

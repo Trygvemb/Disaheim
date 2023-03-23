@@ -28,3 +28,18 @@
 /Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/bin/Debug/net7.0/Disaheim.pdb
 /Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.genruntimeconfig.cache
 /Users/trygvebechsgaard/Desktop/git/Git TrygveMac/Disaheim/Disaheim/obj/Debug/net7.0/ref/Disaheim.dll
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/bin/Debug/net7.0/Disaheim
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/bin/Debug/net7.0/Disaheim.deps.json
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/bin/Debug/net7.0/Disaheim.runtimeconfig.json
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/bin/Debug/net7.0/Disaheim.dll
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/bin/Debug/net7.0/Disaheim.pdb
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.csproj.AssemblyReference.cache
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.AssemblyInfoInputs.cache
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.AssemblyInfo.cs
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.csproj.CoreCompileInputs.cache
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.dll
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/refint/Disaheim.dll
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.pdb
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/Disaheim.genruntimeconfig.cache
+/Users/trygvebechsgaard/Documents/GitHub/Disaheim/Disaheim/obj/Debug/net7.0/ref/Disaheim.dll

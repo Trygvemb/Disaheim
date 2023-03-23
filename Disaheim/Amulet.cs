@@ -3,14 +3,15 @@ namespace Disaheim
 {
 	public class Amulet : Merchandise
 	{
-       
-        //public string ItemId { get; set; }
+		//public string ItemId { get; set; }
         public string Design { get; set; }
         public Level Quality { get; set; }
 
-        public Amulet(string itemId, Level quality, string design) //: base(itemId)
+
+        public override Amulet()//string itemId, Level quality, string design)
         {
-            base.ItemId = itemId;
+            return
+            base.ItemId = itemId,
             Quality = quality;
 			Design = design;
         }

@@ -7,25 +7,32 @@ namespace Disaheim
 		//public List<Amulet> Amulets { get; set; }
 		//public List<Course> Courses { get; set; }
 
-		private BookRepository bookRepo;
-		private AmuletRepository amuletRepo;
+		//private BookRepository bookRepo;
+		private MerchandiseReposity merchandiseRepo;
 		private CourseRepository courseRepo;
 
 		public Controller()
 		{
-			bookRepo = new BookRepository();
-			amuletRepo = new AmuletRepository();
+            //bookRepo = new BookRepository();
+            merchandiseRepo = new MerchandiseReposity();
 			courseRepo = new CourseRepository();
 		}
 
-		public void AddToList(Book book)
+
+		public void AddToList(Merchandise merchandise)
 		{
-			bookRepo.AddBook(book);
+			{
+				merchandiseRepo.AddMerchandise(merchandise);
+			}	
 		}
-        public void AddToList(Amulet amulet)
-        {
-            amuletRepo.AddAmulet(amulet);
-        }
+		//public void AddToList(Book book)
+		//{
+		//	bookRepo.AddBook(book);
+		//}
+		//public void AddToList(Amulet amulet)
+		//{
+		//  amuletRepo.AddAmulet(amulet);
+		//}
 		public void AddToList(Course course)
 		{
 			courseRepo.AddCourse(course);

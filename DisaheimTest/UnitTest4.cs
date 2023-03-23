@@ -11,8 +11,7 @@ namespace DisaheimTest
         Course c1, c2;
 
         CourseRepository courses;
-        BookRepository books;
-        AmuletRepository amulets;
+        MerchandiseReposity merchandises;
 
         [TestInitialize]
         public void Init()
@@ -30,17 +29,16 @@ namespace DisaheimTest
             c2 = new Course("Nuru Massage using Chia Oil", 157);
 
             courses = new CourseRepository();
-            books = new BookRepository();
-            amulets = new AmuletRepository();
+            merchandises = new MerchandiseReposity();
 
             // Act
-            books.AddBook(b1);
-            books.AddBook(b2);
-            books.AddBook(b3);
+            merchandises.AddMerchandise(b1);
+            merchandises.AddMerchandise(b2);
+            merchandises.AddMerchandise(b3);
 
-            amulets.AddAmulet(a1);
-            amulets.AddAmulet(a2);
-            amulets.AddAmulet(a3);
+            merchandises.AddMerchandise(a1);
+            merchandises.AddMerchandise(a2);
+            merchandises.AddMerchandise(a3);
 
             courses.AddCourse(c1);
             courses.AddCourse(c2);
@@ -50,13 +48,13 @@ namespace DisaheimTest
         public void TestGetBook()
         {
             // Assert
-            Assert.AreEqual(b2, books.GetBook("2"));
+            Assert.AreEqual(b2, merchandises.GetMerchndise("2"));
         }
         [TestMethod]
         public void TestGetAmulet()
         {
             // Assert
-            Assert.AreEqual(a3, amulets.GetAmulet("13"));
+            Assert.AreEqual(a3, merchandises.GetMerchndise("13"));
         }
         [TestMethod]
         public void TestGetCourse()
@@ -68,13 +66,13 @@ namespace DisaheimTest
         public void TestGetTotalValueForBook()
         {
             // Assert
-            Assert.AreEqual(123.55, books.GetTotalValue());
+            Assert.AreEqual(123.55, merchandises.GetTotalValue());
         }
         [TestMethod]
         public void TestGetTotalValueForAmulet()
         {
             // Assert
-            Assert.AreEqual(60.0, amulets.GetTotalValue());
+            Assert.AreEqual(60.0, merchandises.GetTotalValue());
         }
         [TestMethod]
         public void TestGetTotalValueForCourse()
